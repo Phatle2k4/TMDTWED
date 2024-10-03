@@ -1,0 +1,1929 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TNS_Ecommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TNS_Ecommerce.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\css\\vertical-layout-light\\style.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\css\\vertical-layout-light\\style.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\feather\\feather.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\feather\\feather.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\feather\\fonts\\feather-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\feather\\fonts\\feather-webfont.eot"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\feather\\fonts\\feather-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\feather\\fonts\\feather-webfont.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\feather\\fonts\\feather-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\feather\\fonts\\feather-webfont.ttf"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\feather\\fonts\\feather-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\feather\\fonts\\feather-webfont.woff"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\images\\Logo_TNS.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\images\\Logo_TNS.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\images\\Logo_TNS_2.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\images\\Logo_TNS_2.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\Chart.roundedBarCharts.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\Chart.roundedBarCharts.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\README.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\config.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\colordialog\\dialogs\\colordialog.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\copyformatting\\cursors\\cursor-disabled.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\copyformatting\\cursors\\cursor.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\copyformatting\\styles\\copyformatting.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\div\\dialogs\\div.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\div\\dialogs\\div.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\README.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\README.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\plugindefinition.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\plugindefinition.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\_helpers\\tools.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\authentication.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\exportpdf.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\configfilename.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\emptyeditor.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integration.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\integrations\\easyimage.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notifications.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\notificationsasync.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\paperformat.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\readonly.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\stylesheets.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenfetching.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorscorrect.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokentwoeditorswrong.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\tokenwithouturl.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\manual\\wrongendpoint.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\notification.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\notification.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\resourcespaths.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\statistics.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\exportpdf\\tests\\stylesheets.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\find\\dialogs\\find.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\find\\dialogs\\find.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\button.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\button.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\checkbox.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\form.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\form.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\hiddenfield.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\radio.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\radio.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\select.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\select.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\textarea.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\textarea.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\textfield.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\dialogs\\textfield.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\forms\\images\\hiddenfield.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\iframe\\dialogs\\iframe.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\iframe\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\iframe\\images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\liststyle\\dialogs\\liststyle.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\mathjax\\dialogs\\mathjax.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\mathjax\\dialogs\\mathjax.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\mathjax\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\mathjax\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\pagebreak\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\preview\\images\\pagebreak.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\preview\\images\\pagebreak.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\preview\\preview.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\preview\\preview.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\preview\\styles\\screen.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\preview\\styles\\screen.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_address.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_address.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_blockquote.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_div.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_div.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h1.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h1.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h2.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h2.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h3.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h3.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h4.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h4.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h5.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h5.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h6.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_h6.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_p.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_p.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_pre.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\showblocks\\images\\block_pre.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\dialogs\\smiley.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angel_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angel_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angel_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angry_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angry_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\angry_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\broken_heart.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\broken_heart.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\broken_heart.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\confused_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\confused_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\confused_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\cry_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\cry_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\cry_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\devil_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\devil_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\devil_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\embaressed_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\embarrassed_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\envelope.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\envelope.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\envelope.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\heart.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\heart.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\heart.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\heart.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\kiss.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\kiss.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\kiss.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\kiss.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\lightbulb.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\lightbulb.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\lightbulb.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\omg_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\omg_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\omg_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\regular_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\regular_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\regular_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\sad_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\sad_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\sad_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\shades_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\shades_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\shades_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\teeth_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\teeth_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_down.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_down.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_up.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\thumbs_up.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\tongue_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\tongue_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\tounge_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\whatchutalkingabout_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\wink_smile.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\wink_smile.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\smiley\\images\\wink_smile.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\dialogs\\templates.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\dialogs\\templates.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\dialogs\\templates.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\dialogs\\templates.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templatedefinition.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templatedefinition.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\default.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\default.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\images\\template1.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\images\\template2.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\templates\\templates\\images\\template3.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\texzilla\\dialogs\\texzilla.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\texzilla\\dialogs\\texzilla.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\mathjax\\mathjax.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\mathjax\\mathjax.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\texzilla\\index.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\texzilla\\index.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_ie.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_ie7.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_ie7.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_ie8.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\dialog_iequirks.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_ie.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_ie.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_ie7.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_ie7.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_ie8.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\editor_iequirks.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\icons.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\icons.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\icons_hidpi.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\dialog_sides.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\dialog_sides.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\dialog_sides.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\dialog_sides.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\dialog_sides_rtl.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\dialog_sides_rtl.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\mini.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\mini.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\spinner.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\sprites.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\sprites.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\sprites_ie6.png",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\sprites_ie6.png"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\toolbar_start.gif",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\images\\toolbar_start.gif"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\readme.md",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\skins\\kama\\readme.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\select.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\select.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\settings.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\settings.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\template.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\template.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\ti-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\ti-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\ti-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\ti-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\ti-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\ti-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\ti-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\ti-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\ti-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\ti-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\Content\\assetsnav\\vertical-layout-light\\style.css",
+      "PackagePath": "staticwebassets\\Content\\assetsnav\\vertical-layout-light\\style.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TNS_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TNS_Ecommerce.props",
+      "PackagePath": "build\\TNS_Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TNS_Ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\TNS_Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TNS_Ecommerce.props",
+      "PackagePath": "buildTransitive\\TNS_Ecommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "0myCYRqYYyvzC/h+6FSof+7oCY47dkWGQQJCRkcSYJZbyjos7CtdLqTK7wCI0bw+N3CCPezl+BkQFhXTMomuGw==",
+  "success": false,
+  "projectFilePath": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_FrontendManagement\\TNS_FrontendManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\TNS.DBConnection\\TNS.DBConnection.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\TNS_Ecommerce_Update\\TNS_Ecommerce\\TNS_Ecommerce\\TNS.DBConnection\\TNS.DBConnection.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
